@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Med-Bot/static/css/main.f813c335.css",
+    "main.js": "/Med-Bot/static/js/main.8aef2918.js",
+    "static/js/592.f6b0c9e0.chunk.js": "/Med-Bot/static/js/592.f6b0c9e0.chunk.js",
+    "static/media/logo.png": "/Med-Bot/static/media/logo.4bd6de9ab22ffd12e3be.png",
+    "index.html": "/Med-Bot/index.html",
+    "main.f813c335.css.map": "/Med-Bot/static/css/main.f813c335.css.map",
+    "main.8aef2918.js.map": "/Med-Bot/static/js/main.8aef2918.js.map",
+    "592.f6b0c9e0.chunk.js.map": "/Med-Bot/static/js/592.f6b0c9e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f813c335.css",
+    "static/js/main.8aef2918.js"
+  ]
+}
